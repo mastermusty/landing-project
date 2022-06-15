@@ -42,3 +42,39 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+
+.information {
+    text-align: center;
+}
+
+.img-section {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    font-display: #1F2937;
+    text-align: left;
+}
+
+
+.modal {
+    background: #3882f6;
+    width: 60%;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
